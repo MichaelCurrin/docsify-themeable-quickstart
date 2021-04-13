@@ -28,6 +28,13 @@
 </div>
 
 
+## Resources
+
+To learn more about Docsify, see [DocsifyJS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/).
+
+See the [Docsify Themeable](https://jhildenbiddle.github.io/docsify-themeable/) homepage for benefits of using that plugin and its styling and how you can further customize this template project.
+
+
 ## Deploy
 
 1. Get a copy of this repo using the template button above.
