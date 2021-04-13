@@ -9,6 +9,8 @@
 [![Made with latest Docsify](https://img.shields.io/npm/v/docsify/latest?label=docsify)](https://docsify.js.org/)
 [![Made with latest Docsify Themeable](https://img.shields.io/npm/v/docsify-themeable/latest?label=docsify-themeable)](https://jhildenbiddle.github.io/docsify-themeable/)
 
+To learn more about DocsifyJS, see [DocsifyJS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/).
+
 
 ## Preview
 
