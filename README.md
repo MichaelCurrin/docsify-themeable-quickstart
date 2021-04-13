@@ -30,19 +30,13 @@
 
 ## Deploy
 
-Get a copy of this repo using the template button above.
-
-Go to _Settings_ of your repo.
-
-Go to the _Pages_ tab.
-
-Enable _GitHub Pages_ on the main branch on the `/docs` path.
-
-Check the _Environments_ tab on the repo main page.
-
-Wait for your site to build.
-
-Click _View deployment_ to go the URL of your site.
+1. Get a copy of this repo using the template button above.
+2. Go to _Settings_ of your repo.
+3. Go to the _Pages_ tab.
+4. Enable _GitHub Pages_ on the main branch on the `/docs` path.
+5. Check the _Environments_ tab on the repo main page.
+6. Wait for your site to build.
+7. Click _View deployment_ to go the URL of your site.
 
 e.g.
 
@@ -53,21 +47,16 @@ That is not always available quickly on the first deploy, so add `index.html` if
 
 ## Set up locally
 
-Get of a copy of this repo or use the original one.
+This requires Node and `make` (a Linux and macOS tool) to be installed. Or your preferred way of serving the [docs](/docs/) directory as static content.
 
-Clone it.
-
-Start the docs server. Requires Node and `make` (a Linux and macOS tool) to be installed.
-
-```sh
-$ make docs
-```
-
-Open in the browser:
-
-- http://localhost:3000
-
-
+1. Get of a copy of this repo or use the original one.
+2. Clone the repo.
+3. Start the docs server.
+    ```sh
+    $ make docs
+    ```
+4. Open in the browser:
+    - http://localhost:3000
 
 
 ## License
