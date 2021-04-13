@@ -3,9 +3,9 @@
   DocsifyJS Template
 </h1>
 
-[![GitHub tags](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/) <!-- TODO: Update username and repo name -->
+[![GitHub tags](https://img.shields.io/github/tag/MichaelCurrin/docsify-themeable-quickstart.svg)](https://GitHub.com/MichaelCurrin/docsify-themeable-quickstart/tags/) <!-- TODO: Update username and repo name -->
 
-> A minimal quickstart template for a docs site <!-- TODO: Replace with your description -->
+> Starter template for a docs site using Docsify Themeable <!-- TODO: Replace with your description -->
 
 
 <!-- TODO: Update to match your project's benefits/features. Git emojis work great here. -->
@@ -13,10 +13,10 @@
 - :hourglass_flowing_sand: Quickly set up an elegant, responsive site
 - :open_file_folder: Use your markdown docs as content
 - :sparkles: No compilation step and no templating syntax to learn
-- :nut_and_bolt: Built on [DocsifyJS](https://docsify.js.org/)
+- :nut_and_bolt: Built on [DocsifyJS](https://docsify.js.org/) and [Docsify Themeable](https://jhildenbiddle.github.io/docsify-themeable/)
 - :pushpin: The library loads in the browser - no local dependencies
 - :cloud: Serve locally and on GitHub Pages or Netlify
 
 
-[Use this template](https://github.com/MichaelCurrin/docsify-js-template/generate) <!-- TODO: Remove on your copy of this template.-->
-[Get Started](#docsifyjs-template) <!-- TODO: Use ID of your homepage heading -->
+[Get Started](#docsify-themeable) <!-- TODO: Use ID of your homepage heading -->
+[Use this template](https://github.com/MichaelCurrin/docsify-themeable/generate) <!-- TODO: Remove on your copy of this template.-->
