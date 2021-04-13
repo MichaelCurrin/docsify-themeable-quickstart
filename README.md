@@ -13,7 +13,7 @@
 
 <div align="center">
     <a href="https://michaelcurrin.github.io/docsify-themeable-quickstart/">
-        <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="400" />
+        <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="600" />
     </a>
 </div>
 
