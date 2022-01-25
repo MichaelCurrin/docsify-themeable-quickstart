@@ -3,8 +3,8 @@
 > Starter template for a docs site using Docsify Themeable
 
  <!-- TODO: Update repo links and change license type if needed. -->
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-themeable.svg)](https://GitHub.com/MichaelCurrin/docsify-themeable/tags/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MichaelCurrin/docsify-themeable/blob/master/README#license)
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-themeable-quickstart)](https://github.com/MichaelCurrin/docsify-themeable-quickstart/tags/?include_prereleases&sort=semver)
+[![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/MichaelCurrin/docsify-themeable/blob/master/README#license)
 
 [![Made with latest Docsify](https://img.shields.io/npm/v/docsify/latest?label=docsify)](https://docsify.js.org/)
 [![Made with latest Docsify Themeable](https://img.shields.io/npm/v/docsify-themeable/latest?label=docsify-themeable)](https://jhildenbiddle.github.io/docsify-themeable/)
