@@ -45,11 +45,8 @@ See the [Docsify Themeable](https://jhildenbiddle.github.io/docsify-themeable/) 
 6. Wait for your site to build.
 7. Click _View deployment_ to go the URL of your site.
 
-e.g.
+e.g. https://michaelcurrin.github.io/docsify-themeable-quickstart/
 
-https://michaelcurrin.github.io/docsify-themeable-quickstart/
-
-That is not always available quickly on the first deploy, so add `index.html` if you impatient.
 
 
 ## Set up locally
